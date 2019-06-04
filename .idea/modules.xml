@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nyist-studentonline-project.iml" filepath="$PROJECT_DIR$/nyist-studentonline-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentonline-logs-collect/studentonline-logs-collect.iml" filepath="$PROJECT_DIR$/studentonline-logs-collect/studentonline-logs-collect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentonline-logs-common/studentonline-logs-common.iml" filepath="$PROJECT_DIR$/studentonline-logs-common/studentonline-logs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentonline-logs-flume/studentonline-logs-flume.iml" filepath="$PROJECT_DIR$/studentonline-logs-flume/studentonline-logs-flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentonline-logs-hive/studentonline-logs-hive.iml" filepath="$PROJECT_DIR$/studentonline-logs-hive/studentonline-logs-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentonline-logs-studentphone/studentonline-logs-studentphone.iml" filepath="$PROJECT_DIR$/studentonline-logs-studentphone/studentonline-logs-studentphone.iml" />
+    </modules>
+  </component>
+</project>

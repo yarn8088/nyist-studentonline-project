@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="studentonline-logs-collect:war">
+    <output-path>$PROJECT_DIR$/studentonline-logs-collect/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>studentonline-logs-collect</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="studentonline-logs-collect-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="studentonline-logs-collect:war exploded" />
+    </root>
+  </artifact>
+</component>
